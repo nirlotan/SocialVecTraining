@@ -1,0 +1,5 @@
+model_prefix: models/SocialVec_v6_sg_all
+model_window: 1000
+model_sg: 1
+vector_size: 100
+negative_sampling: 5
